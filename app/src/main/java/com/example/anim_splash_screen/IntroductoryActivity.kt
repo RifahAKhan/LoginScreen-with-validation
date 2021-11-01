@@ -14,15 +14,21 @@ class IntroductoryActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_introductory)
 
-        val logo: ImageView = findViewById(R.id.logo)
+
 
         val splashImg: ImageView = findViewById(R.id.img)
         val lottieAnimationView: com.airbnb.lottie.LottieAnimationView = findViewById(R.id.lottie)
 
         splashImg.animate().translationY(-1600F).setDuration(1000).startDelay = 4000
-        logo.animate().translationY(1400F).setDuration(1000).startDelay = 4000
+
 
         lottieAnimationView.animate().translationY(1400F).setDuration(1000).startDelay = 4000
+
+        Handler(Looper.getMainLooper()).postDelayed(Runnable {
+            val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
+            finish()
+        }, 4000)
 
 
 

@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/drawable-v24/ic_phone_icon.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/drawable/ic_field_password_icon.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/drawable/ic_field_passwords_icon.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/drawable/ic_field_usename_icon.xml" value="0.2" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/drawable/ic_mail_icon.xml" value="0.2" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/drawable/ic_phone_icon.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/layout/activity_create_account_screen.xml" value="0.18385416666666668" />
         <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/layout/activity_introductory.xml" value="0.2" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/layout/activity_login_screen.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/layout/activity_main.xml" value="0.16802536231884058" />
+        <entry key="..\:/Users/RIFAH A KHAN/Downloads/Anim_Splash_Screen/app/src/main/res/layout/dropdown_item.xml" value="0.1828125" />
       </map>
     </option>
   </component>

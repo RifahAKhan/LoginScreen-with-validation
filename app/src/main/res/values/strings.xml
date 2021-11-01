@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Anim_Splash_Screen</string>
+    <string name="text">Create Curate and teach.</string>
+    <string name="enter_number">Phone Number</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_mailid">Email</string>
+    <string name="success_label" />
+    <string name="error_label" />
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_ph_number">Phone Number</string>
+    <string-array name = "Interests">
+        <item>Android Application Development</item>>
+        <item>Web Application Development</item>>
+        <item>Ethical Hacking</item>>
+        <item>Artificial Intelligence</item>>
+    </string-array>>
 </resources>

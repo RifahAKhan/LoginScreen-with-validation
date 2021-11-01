@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Anim_Splash_Screen">
         <activity
+            android:name=".CreateAccountScreen"
+            android:exported="true" />
+        <activity
+            android:name=".LoginScreen"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity
