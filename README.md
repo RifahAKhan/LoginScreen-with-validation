@@ -5,12 +5,12 @@
 2. Login Screen with validation containing three required fields email, password and phone number using helper text.
 3. Email Address not being in the correct format pops an error as Invalid Email Address built using binding and also consists of an end icon mode.
 4. Password field contains a count built using counterMaxLength and also displaying a helper text of Minimum 10 Characters Password.
-5. Here, as the count value of characters exceed the counterMaxLength, the field border turns red and also displaying a helper text of Minimum 10 Characters Password. The password field also consists of a toogle button to hide the password.
+5. Here, as the count value of characters exceeds the counterMaxLength, the field border turns red and also displaying a helper text of Minimum 10 Characters Password. The password field also consists of a toogle button to hide the password.
 6. The password not containing an Upper case character displays a helper text as Must Contain 1 Upper Case Character.
-7. The password not containing an Special character displays a helper text as Must Contain 1 Special Character(@#$^&+=).
+7. The password not containing a Special character displays a helper text as Must Contain 1 Special Character(@#$^&+=).
 8. Password to be perfect. Also contains a counter as well as end icon mode.
 9. When moved to the next field, the error disappears.
-10. As the count of numbers exeeds the counterMaxLength, the border of phone number field is displayed in red.
+10. As the count of numbers exceeds the counterMaxLength, the border of phone number field is displayed in red.
 11. Phone number being perfect.
 12. Displays a helper text as Must be 10 digits.
 13. Helper Text disappears.
